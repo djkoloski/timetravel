@@ -1,0 +1,117 @@
+{
+	"tutorialSteve": {
+		"leadin": [
+			"Steve enters through the door, the window above the door says he is from 2015 CE.",
+			"You: Hello Sir, welcome to the Eternal Revenue Service, existing outside of time since. How can I help you?",
+			"Steve: Hi, I'm Tutorial Steve! I'm here to teach you how to help people like me with tax forms!"
+		],
+		"leadout": [
+			"You: Here you go, fill this out.",
+			"Steve: Well done! You've successfully gotten the form that I need to fill out for me!",
+			"You: Uh, yeah... I know..?",
+			"Steve fills out his form",
+			"Steve: Here you go! Now that I've taught you how to complete your duties, I will be on my way! For you no longer need my guidance, you have learned well and...",
+			"You: Skip!",
+			"Steve: Farewell!",
+			"Steve exits through the door and the window above displaying his time goes blank",
+			"You: Well, I've seen stranger..."
+		],
+		"level": "warehouse_1",
+		"frames": [
+			{
+				"display": "Help Steve with tax forms",
+				"options": [
+					{
+						"display": "OK, so what do you want",
+						"response": [
+							"Steve: Well my friend I need to fill out a form reporting my income alongside paying my taxes to avoid incurring interest and penalties!",
+							"You: Yes I know, I work at the ERS as you can see.",
+							"Steve: Haha! Of course you do! And you're doing a fantastic job I must say! So, I am currently making 57,000 USD of income, what form do I need to fill out?"
+						],
+						"progress": true
+					},
+					{
+						"display": "Your name is Tutorial Steve? Are you kidding?",
+						"response": [
+							"Steve: Well my good man that is the name my mother gave me! Haha, but I rather enjoy the name Steve if I really think about it!",
+							"You: Well actually I meant... never mind..."
+						],
+						"progress": false
+					},
+					{
+						"display": "2015 huh? How's that working out for you?",
+						"response": [
+							"Steve: Oh times are great! Sure there's turmoil looming over our heads in both the news and our daily lives but that's not a problem as long as you have an upbeat attitude, right buddy?",
+							"You: Uh... yeah, right upbeat... woo..."
+						],
+						"progress": false
+					}
+				]
+			},
+			{
+				"display": "Help Steve with tax forms",
+				"options": [
+					{
+						"display": "No, you know what, before I meant that 'Tutorial' isn't a real name.",
+						"response": [
+							"Steve: Well I don't surely know what you mean sir! Tutorial was my father's name is his father's before him!",
+							"You: Yeah but Tutorial? That doesn't sound like a name to me.",
+							"Steve: Tutorial was my father's name and...",
+							"You: Yes! Yes! Skip!"
+						],
+						"progress": false
+					},
+					{
+						"display": "Let's see, form 802 sounds right...",
+						"response": [
+							"Steve: That's the one! IYep, I've been here enough times to know! Haha, I always pay on time, like clockwork!",
+							"You: Fascinating..."
+						],
+						"progress": true
+					},
+					{
+						"display": "How am I supposed to know? I don't know anything about taxes.",
+						"response": [
+							"Steve: Haha! Not to worry my friend! If I didn't know exactly how to tell someone what to do and how to do it my name wouldn't be...",
+							"You: Tutorial?",
+							"Steve: No, Steven DescribesALotOf Tutorial! See my middle name makes people think I know things.",
+							"You: Your middle name... riiiight. Sooo, the form?",
+							"Steve: But of course! The form I need is form 802! Should be in the top drawer of the filing cabinet you've got back there!"
+						],
+						"progress": false
+					}
+				]
+			},
+			{
+				"display": "Help Steve with tax forms",
+				"options": [
+					{
+						"display": "Aren't you curious why this place is called the 'Eternal' Revenue Service?",
+						"response": [
+							"Steve: Well as a matter of fact, I know it because the ERS exists outside of space and tie in a pocket universe where concepts that are commonplace in my universe, like gravity and physics, are thrown into wild conundrums and paradoxes... Much like the IRS does with taxes.",
+							"You: ... what? I stopped listening after you opened your mouth.",
+							"Steve: Haha! Yep, just like the IRS..."
+						],
+						"progress": false
+					},
+					{
+						"display": "Let me just grab that form for you...",
+						"response": [
+							"You leave for the warehouse"
+						],
+						"progress": true
+					},
+					{
+						"display": "This is insane, you can't possibly think I'll believe your name is Steven DescribesALotOf Tutorial!",
+						"response": [
+							"Steve: Look friend, the Tutorial name has been around for a long time, my ancestors were out there helping folk start epic journeys, learn how to drive things, and telling them grand tales of how they once did great things (but not any more), while your ancestors were just...",
+							"You: Yeah, right, skip! Forget it, I don't care...",
+							"Steve: ... and there you have it! Good luck on your journey adventurer!"
+						],
+						"progress": false
+					}
+				]
+			}
+		]
+	}
+}
