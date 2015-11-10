@@ -125,8 +125,187 @@
 	}
 	"Shirley Ann Jackson": {
 		"leadin": [
-			"Steve enters through the door, the window above the door says he is from 2015 CE.",
-			"You: Hello Sir, welcome to the Eternal Revenue Service, existing outside of time since. How can I help you?",
-			"Steve: Hi, I'm Tutorial Steve! I'm here to teach you how to help people like me with tax forms!"
+			"Shirley enters through the double doors, looks to you like she’s from the year 2017 CE",
+			"You: Hello Miss, welcome to the Eternal Revenue Service, now handling close encounters of the third kind restraining orders! What service can I provide?”",
+			"Shirley: Hello, You have witnessed the Honorable Shirley Ann Jackson, and she has come here today by order of the Interdimensional Postal Service. Who dares speak for this organization!"
+			"You: Ooh! I get paid to talk with clients!"
+			"Shirley: What is the meaning of summoning the Honorable Shirley Ann Jackson for these outrageous claims!?"
+			"You: Well Mrs. Jackson…"
+			"Shirley: You may address Shirley as The Honorable Shirley Ann Jackson!"
 		],
+		"leadout": [
+			"You: Here you go."
+			"Shirley: Shirley wishes she could say that it’s been a pleasure, but the next time we meet it will probably be because she is shutting the ERS down."
+			"You: You can try Mrs. Jackson, but I think you’ll find that the ERS is very… resilient."
+			"Shirley: … touche.
+			"Shirley departs through the double doors, back to her own time	
+		],
+		"level": "warehouse_2",
+		"frames": [
+			{
+				"display": "Move the conversation along.",
+				"options": [
+					{
+						"display": "(Sidestep Shirley's comment)",
+						"response": [
+							"You: Alright, How about you tell me what brought you to the ERS today?"
+							"Shirley: Shirley already said, The IPS."
+							"You: The company that makes adhesives?"
+							"Shirley: Wha… No, the Interd.. The notice Shirley got in the mail! Something about Shirley’s car being heavy."
+							"You: Ok, tell me about this car."
+							"Shirley: Well as you probably know, ever since what happened in 2016, Shirley has changed her primary mode of transportation to the 2011 amphibious heavy-armor assult vehicle."
+							"You: But of course, please continue."
+							"Shirley: So just yesterday Shirley receives a notice from your department that she now needs to pay extra taxes because of this! Explain!"
+						],
+						"progress": true
+					},
+					{
+						"display": "Is that a legal part of your name?",
+						"response": [
+							"Shirley: That name was given to Shirley by the greatest woman in her life."
+							"You: Aww! Your mom gave you that name?"
+							"Shirley: What? No, The Honorable Shirley Ann Jackson gave Shirley that name!"
+							"You: …Are you going to keep referring to yourself in the third person?"
+						],
+						"progress": false
+					},
+					{
+						"display": "What's so honorable about her?",
+						"response": [
+							"Shirley: You dare to challenge the Honorable Shirley Ann Jackson??"
+							"You: I’m not challenging! I was just curious!"
+							"Shirley: This action is new to Shirley, she will have to think about how she will punish you for these heinous actions."
+							"You: Wait, is challenging new to you or is curiosity new to you?"
+							"Shirley: ...Yes."
+						],
+						"progress": false
+					}
+				]
+			},
+			{
+				"display": "Help Shirley get the form she needs.",
+				"options": [
+					{
+						"display": "I don’t believe I’ve introduced myself...",
+						"response": [
+							"Shirley: I have no interest sir! The Honorable Shirley Ann Jackson is an important woman! Who has many responsibilities and places to be!"
+							"You: So then shouldn’t you have sent someone else to come take care of this? "
+							"Shirley: Shirley has never been outside the Universe, she wanted to see it for herself."
+							"You: Oh… Well what do you think?"
+							"Shirley: …"
+							"Shirley: Eh, Shirley has seen more interesting places."
+						],
+						"progress": false
+					},
+					{
+						"display": "Aha, Form 2290",
+						"response": [
+							"Shirley: Elaborate."
+							"You: Well Plankton, Form 2290 is for figuring and paying the tax due on heavy highway vehicles."
+							"Shirley: You must be joking! Why can’t Shirley have a heavy assault vehicle without paying extra for damaging public property! This is outrageous!"
+							"You: You’re welcome to file a complaint."
+							"Shirley: Does someone respond to those?"
+							"You: Hmm, I don’t know, but the last guy who went looking for the complaints department came back aged 200 years."
+							"Shirley: eehh..."
+							"You: He said they listened to his complaint though."
+							"Shirley: Go get the form…"
+						],
+						"progress": true
+					},
+					{
+						"display": "Where exactly are you driving this vehicle?",
+						"response": [
+							"Shirley: Where else would Shirley take it? To the office, home, anywhere Shirley needs to attend."
+							"You: You’re driving it in public areas? Isn’t that a little excessive?"
+							"Shirley: Did you forget what happened in 2016? Anyone who goes outside in a simple car is Doomed to a horrible demise."
+							"You: ...of course, you’re right, but indescribable horrors aside, the ERS codes are the ERS codes."
+							"Shirley: Don’t you mean the law’s the law?"
+							"You: There are no laws outside of the universe, just death and taxes."
+						],
+						"progress": false
+					}
+				]
+			}
+		]
+	}
+	"NAME": {
+		"leadin": [
+			
+		],
+		"leadout": [
+				
+		],
+		"level": "warehouse_",
+		"frames": [
+			{
+				"display": "",
+				"options": [
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					}
+				]
+			},
+			{
+				"display": "",
+				"options": [
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					}
+				]
+			},
+			{
+				"display": "",
+				"options": [
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					}
+				]
+			}
+		]
+	}
 }
