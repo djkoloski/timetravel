@@ -305,7 +305,7 @@
 		"level": "warehouse_5",
 		"frames": [
 			{
-				"display": "",
+				"display": "Learn more about the very interesting alien being.",
 				"options": [
 					{
 						"display": "Ho I ese, os htis si usjt a lilfer esemgtn.",
@@ -337,12 +337,73 @@
 			}
 		]
 	}
+	"Henry VIII": {
+		"leadin": [
+			"Henry VIII enters through the double doors, looks to you like he is from the year 1533 CE*"
+			"You: Hello Sir, welcome to the Eternal Revenue Service, If you’re looking for the 7th dimension you’ve gone too far. How can I make your day brighter?"
+			"Henry: Greetings peasant, I wish to speak with your master I have business with him."
+			"You: I have business with the toilet but my break is not for another…"
+			"You: Um… not for another while."
+		],
+		"leadout": [
+			
+		],
+		"level": "warehouse_",
+		"frames": [
+			{
+				"display": "",
+				"options": [
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					}
+				]
+			},
+			{
+				"display": "",
+				"options": [
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					},
+					{
+						"display": "",
+						"response": [
+						],
+						"progress": false
+					}
+				]
+			}
+		]
+	}
 	"Name": {
 		"leadin": [
 			
 		],
 		"leadout": [
-				
+			
 		],
 		"level": "warehouse_",
 		"frames": [
