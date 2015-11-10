@@ -288,6 +288,55 @@
 			}
 		]
 	}
+	"Alien": {
+		"leadin": [
+			"An alien being enters through the double doors, it looks to you like it is from the year 6730 AE"
+			"You: Hello Sir, welcome to the Eternal Revenue Service, Not even your death can stop us. How are you today?"
+			"Alien: Lleho, I ndee a mfor ot gsin."
+			"You: Oh sorry, fO ocures, athw rofm do uyo eend?"
+			"Alien: Odsen’t taterm, ew jtsu edne to kaem it seem leik oesmtnhig rmtioptna si pnpaehing"
+		],
+		"leadout": [
+			"Alien: Lcoo, thnksa orf royu elph, onec I eealv shit orom l'lI ecsea ot xesit, acuebse 'mi utjs a ecaharrct ni a maeg."
+			"You: uortfh alwl rbagiekn aised, I poeh ti aws a oogd ielf."
+			"Alien: Nsohytle, I erfrpe bovilion."
+			"The alien departs through the double doors, back to his own time."
+		],
+		"level": "warehouse_5",
+		"frames": [
+			{
+				"display": "",
+				"options": [
+					{
+						"display": "Ho I ese, os htis si usjt a lilfer esemgtn.",
+						"response": [
+							"Alien: Nto os cumh a flilre sa a ehacp adn esya uglha"
+							"You: Oh ahey, eoppel olevs shtoe!"
+							"Alien: Naydc mrfo a baby."
+						],
+						"progress": false
+					},
+					{
+						"display": "Lewl atth’s a ibg ohicce ot kame, vhea oyu esen htta raeowheus?",
+						"response": [
+							"Alien: Ho orsyr, I frootg. Mhm, ohw boaut a praikgn rmepti?"
+							"You: Taht’s a llteti obrign dno’t you hntki?"
+							"Alien: Hyea, m’I a robing ygu... I no'td ende a psaoyernlit, eppole anc't veen rntdauesnd em..."
+						],
+						"progress": false
+					},
+					{
+						"display": "Os I uclod tielrlayl grba yna ofrm?",
+						"response": [
+							"Alien: Rsue I susge."
+							"You: Ohld no ’llI gte uyo a ceniesl ot lkli…"
+						],
+						"progress": true
+					}
+				]
+			}
+		]
+	}
 	"Name": {
 		"leadin": [
 			
