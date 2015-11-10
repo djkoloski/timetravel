@@ -13,7 +13,7 @@
 			"Steve: Now that I’ve taught you how to complete your duties, I will be on my way! For you no longer need my guidance, you have learned well and…",
 			"You: Skip!",
 			"Steve: Farewell!",
-			"Steve exits through the double doors, back to his own time.",
+			"Steve departs through the double doors, back to his own time.",
 		],
 		"level": "warehouse_1",
 		"frames": [
@@ -346,51 +346,108 @@
 			"You: Um… not for another while."
 		],
 		"leadout": [
-			
+			"Henry: This situation has given me much to think about…"
+			"You: Well don’t go changing history, you could cause a paradox that will end the universe"
+			"Henry: Truely??"
+			"You: … No I’m messing with you, HAHAHAHAAaa! Have a lovely day!"
+			"Putin: Eh… Swine."
+        		"Henry VIII departs through the double doors, back to his own time."
 		],
-		"level": "warehouse_",
+		"level": "warehouse_6",
 		"frames": [
 			{
-				"display": "",
+				"display": "Convince Henry VIII to talk to you.",
 				"options": [
 					{
-						"display": "",
+						"display": "I’m in charge here so, you can talk to me sir.",
 						"response": [
+							"Henry: You are the one in charge of this establishment?"
+							"You: Yeah, well I don’t own the place, but I am a customer service representative!"
+							"Henry: Very well, I will wether you for now. I require… a notice of divorce."
+						],
+						"progress": true
+					},
+					{
+						"display": "You look familiar...",
+						"response": [
+							"Henry: I am Henry the Eighth! King of England! How dare you address me with such disrespect!"
+							"You: I’m sorry your majesty but like I keep saying, we’re not in your kingdom anymore..."
+							"Henry: What sorcery do you speak of!? I was just in my kingdom 12 paces ago!"
+							"You: Yeah, the ERS exists outside of Time and Space looking in, but never actually touching."
+							"Henry: I have half a mind to have you institutionalized after hearing such nonsense!"
+							"You: Well come back when you find the other half, Maybe check that institution you mentioned. hehehe!"
 						],
 						"progress": false
 					},
 					{
-						"display": "",
+						"display": "Well someone woke up on the wrong side of the bed.",
 						"response": [
-						],
-						"progress": false
-					},
-					{
-						"display": "",
-						"response": [
+							"Henry: I do not ‘wake up on the wrong side' of anything sir, I am King of England.  "
+							"You: Well, you don’t have to be so rude to me, I’m here to help!"
+							"Henry: Your place is below me sir! You will accept this is such."
+							"You: You are so lucky someone from the 21st century is not here right now. Hoo boy."
 						],
 						"progress": false
 					}
 				]
 			},
 			{
-				"display": "",
+				"display": "How should you respond to this Information?",
 				"options": [
 					{
-						"display": "",
+						"display": "Awwww",
 						"response": [
+							"Henry: Do not give me your pity, dog! I do not require nor desire it!!"
+							"You: Sounds like someone’s mommy didn’t hug them enough… frowny face…"
+							"Henry: Stop that you insolent cur! My mother has nothing to do with this!"
+							"You: Hey, I will always be willing to hug you if you need it!"
+							"Henry: If I wasn’t busy I would have you strung up witch!"
 						],
 						"progress": false
 					},
 					{
-						"display": "",
+						"display": "Only one? You sure about that?",
 						"response": [
+							"Henry: What do you mean by that?"
+							"Another Henry steps out of the double doors, it looks to you like this one is from 1542."
+							"Henry 2: Hello again swine."
+							"You: Hi Henry, back so soon?"
+							"Henry 1: What is…?"
+							"Henry 2: I need another form for divorce."
+							"You: Did you remember to bring your wife this time to co-sign?"
+							"Henry 2: Eh… what if she had already been executed? Would she still need to sign?"
+							"You: Legally. Sorry."
+							"Henry 2: Confound it!!"
+							"Henry 2 goes back through the double doors, returning to his proper time."
+							"Henry: Who was that imposter?"
+							"You: Hmm? Oh yeah you’re the first, well that was you from the future."
+							"Henry: …?"
+							"You: Yeah, you’ve been here a few times, heh heh."
+							"A third Henry steps out of the double doors, it looks to you like this one is from 1540."
+							"Henry 3: Unfortunately, I have returned once again."
+							"You: Wowzers, it’s like you never left!"
+							"Henry 1: I’m having trouble…"
+							"Henry 3 to Henry 1: you will learn in time my friend."
+							"Henry 3: I require another notice of divorce."
+							"You: You didn’t you kill this one did you Henry?"
+							"Henry 3: Of course not! I only kill traitors to my throne!"
+							"You: Then you need to have your spouse with you to co-sign."
+							"Henry 3: Oh… very well... swine! I will remember!"
+							"You: Yeah… you said that last time."
+							"Henry 3 goes back through the double doors, returning to his proper time."
+							"Henry: Oh my…"
+							"You: Don’t think about it too much sir. I’ll get that form while you process this."
 						],
-						"progress": false
+						"progress": true
 					},
 					{
-						"display": "",
+						"display": "Why are you getting a divorce?",
 						"response": [
+							"Henry: Is that necessary to divulge at the moment?"
+							"You: No, I’m just curious. It’s not every day you meet historical royalty."
+							"Henry: Oh… I see, well It all started…"
+							"You: Unless of course you’re me, in which case you see royalty every five minutes."
+							"Henry: …Let’s move on"
 						],
 						"progress": false
 					}
