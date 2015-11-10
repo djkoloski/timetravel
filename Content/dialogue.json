@@ -138,7 +138,7 @@
 			"Shirley: Shirley wishes she could say that it’s been a pleasure, but the next time we meet it will probably be because she is shutting the ERS down."
 			"You: You can try Mrs. Jackson, but I think you’ll find that the ERS is very… resilient."
 			"Shirley: … touche.
-			"Shirley departs through the double doors, back to her own time	
+			"Shirley departs through the double doors, back to her own time."
 		],
 		"level": "warehouse_2",
 		"frames": [
@@ -228,7 +228,67 @@
 			}
 		]
 	}
-	"NAME": {
+	"Future You": {
+		"leadin": [
+			"A future version of you steps through the double doors, you have no idea where he is from."
+			"You: Hello Sir, welcome… wait… is that?"
+			"Future You: Well hello there me."
+			"You: Huh, this is new. You’re me?"
+			"Future You: Yeah, that’s what I said, but I’m getting used to it."
+		],
+		"leadout": [
+			"Past You: Hello Sir, welcome… wait… is that?"
+			"You: Well hello there me."
+		],
+		"level": "warehouse_4",
+		"frames": [
+			{
+				"display": "Learn more about yourself.",
+				"options": [
+					{
+						"display": "How did you get here?",
+						"response": [
+							"Future You: To be honest, no idea, and the experience was rather traumatic so…"
+							"You: Aw come on, tell me more!"
+							"Future You: You should count yourself lucky that you don't know! It was insane!"
+							"You: You're not helping me get over this…"
+						],
+						"progress": false
+					},
+					{
+						"display": "Where are you from?",
+						"response": [
+							"Future You: I’m from the future, only about five minutes in the future, but still"
+							"You: Wow, how is the future?"
+							"Future You: …it’s not bad."
+							"You: Well I guess time does pass in the ERS after all!"
+							"Future You: Yeah, but don’t bother trying to remember how much time has passed, you can’t remember."
+							"You: How would you kno… Oh right, future ‘ME’."
+						],
+						"progress": false
+					},
+					{
+						"display": "Well, can I get you something?",
+						"response": [
+							"Future You: YES. I need a form for Future me."
+							"You: Future you?"
+							"Future You: Yeah, he came in from my future asking for a form and when I went to get it I ended up here."
+							"You: Weird, well I should be able to get it for you, what’s the form?"
+							"Future You: No idea."
+							"You: …"
+							"Future You: Future me said I would know it when I see it."
+							"You: Alright, I guess the same goes for me then?"
+							"Future You: Yeah, you’ll know it when I see it. I mean you, you see it, heh, heh."
+							"You: Well it might take a while, you think you can watch the desk for me?"
+							"Future You: Sure, but try to be quick, I got future me watching my desk."
+						],
+						"progress": true
+					}
+				]
+			}
+		]
+	}
+	"Name": {
 		"leadin": [
 			
 		],
