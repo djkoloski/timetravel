@@ -10,7 +10,7 @@
             "Steve: Well done! You've successfully gotten the form that I need to fill out for me!",
             "You: Hooray! Uh, wait I knew that...",
             "Steve fills out his form.",
-            "Steve: Now that I’ve taught you how to complete your duties, I will be on my way! For you no longer need my guidance, you have learned well and…",
+            "Steve: Now that I’ve taught you how to complete your duties, I will be on my way! For you no longer need my guidance, you have learned well and...",
             "You: Skip!",
             "Steve: Farewell!",
             "Steve departs through the double doors, returning to his own time."
@@ -42,8 +42,8 @@
                         "response": [
                             "Steve: Oh times are great! Sure there’s turmoil looming over our heads in both the news and our daily lives but that’s not a problem as long as you have an upbeat attitude, right buddy?",
                             "You: Right! That’ll pass in a few years anyway! You guys still have the apocalypse to look forward to!",
-                            "Steve: Yeah! Totally… Eh  wait, what was that?",
-                            "You: Say what? Oh nothing, anyway…!"
+                            "Steve: Yeah! Totally... Eh  wait, what was that?",
+                            "You: Say what? Oh nothing, anyway...!"
                         ],
                         "progress": false
                     }
@@ -57,7 +57,7 @@
                         "response": [
                             "Steve: Tutorial was my father’s name and his father’s before him!",
                             "You: That doesn’t sound like a name to me.",
-                            "Steve: Tutorial was my father’s name and…",
+                            "Steve: Tutorial was my father’s name and...",
                             "You: Yes! OK! Skip!"
                         ],
                         "progress": false
@@ -68,7 +68,7 @@
                             "Steve: That’s the one! Well done! You’re well on your way to becoming a great ERS employee!",
                             "You: Thanks! I sure am lucky you were the first guy who came in today! Almost like it was scripted!",
                             "*ERR: function returned Null = Invalid Input;",
-                            "You: … um",
+                            "You: ... um",
                             "Steve: You’ll find the form though that door there!"
                         ],
                         "progress": true
@@ -76,7 +76,7 @@
                     {
                         "display": "How am I supposed to know? I just work at the front desk.",
                         "response": [
-                            "Steve: Haha! not to worry my friend! If i didn’t know exactly how to tell someone what to do and how to do it my name wouldn’t be…",
+                            "Steve: Haha! not to worry my friend! If i didn’t know exactly how to tell someone what to do and how to do it my name wouldn’t be...",
                             "You: Tutorial?",
                             "Steve: Wow, how’d you know what I was going to say?",
                             "You: I’ve had this conversation before. Many times. The form?",
@@ -92,9 +92,9 @@
                     {
                         "display": "Aren't you curious why this place is called the 'Eternal' Revenue Service?",
                         "response": [
-                            "Steve: Well as a matter of fact, I know it because the ERS exists outside of space and time in a pocket universe where concepts that are commonplace in my universe, like gravity and physics, are thrown into wild conundrums and paradoxes… Much like the IRS does with taxes.",
+                            "Steve: Well as a matter of fact, I know it because the ERS exists outside of space and time in a pocket universe where concepts that are commonplace in my universe, like gravity and physics, are thrown into wild conundrums and paradoxes... Much like the IRS does with taxes.",
                             "You: ... What? I’m sorry I lost you after ‘commonplace’.",
-                            "Steve: Haha! yep, just like the IRS…"
+                            "Steve: Haha! yep, just like the IRS..."
                         ],
                         "progress": false
                     },
@@ -109,9 +109,9 @@
                         "display": "What just happened?",
                         "response": [
                             "Steve: What do you mean?",
-                            "You: You just said something like… like… a computer?",
+                            "You: You just said something like... like... a computer?",
                             "Steve: I don’t understand. You must have misheard me.",
-                            "You: Well neither do I, what…",
+                            "You: Well neither do I, what...",
                             "Steve: I don’t understand. You must have misheard me.",
                             "You: Oh forget it, It’s not like weirder things haven’t come through here.",
                             "Steve: Hi! I’m Tutorial Steve!",
@@ -130,14 +130,14 @@
             "Shirley: Hello, You have witnessed the Honorable Shirley Ann Jackson, and she has come here today by order of the Interdimensional Postal Service. Who dares speak for this organization!",
             "You: Ooh! I get paid to talk with clients!",
             "Shirley: What is the meaning of summoning the Honorable Shirley Ann Jackson for these outrageous claims!?",
-            "You: Well Mrs. Jackson…",
+            "You: Well Mrs. Jackson...",
             "Shirley: You may address Shirley as The Honorable Shirley Ann Jackson!"
         ],
         "leadout": [
             "You: Here you go.",
             "Shirley: Shirley wishes she could say that it’s been a pleasure, but the next time we meet it will probably be because she is shutting the ERS down.",
-            "You: You can try Mrs. Jackson, but I think you’ll find that the ERS is very… resilient.",
-            "Shirley: … touche.",
+            "You: You can try Mrs. Jackson, but I think you’ll find that the ERS is very... resilient.",
+            "Shirley: ... touche.",
             "Shirley departs through the double doors, returning to her own time."
         ],
         "level": "warehouse_2",
@@ -151,7 +151,7 @@
                             "You: Alright, How about you tell me what brought you to the ERS today?",
                             "Shirley: Shirley already said, The IPS.",
                             "You: The company that makes adhesives?",
-                            "Shirley: Wha… No, the Interd.. The notice Shirley got in the mail! Something about Shirley’s car being heavy.",
+                            "Shirley: Wha... No, the Interd.. The notice Shirley got in the mail! Something about Shirley’s car being heavy.",
                             "You: Ok, tell me about this car.",
                             "Shirley: Well as you probably know, ever since what happened in 2016, Shirley has changed her primary mode of transportation to the 2011 amphibious heavy-armor assult vehicle.",
                             "You: But of course, please continue.",
@@ -165,7 +165,7 @@
                             "Shirley: That name was given to Shirley by the greatest woman in her life.",
                             "You: Aww! Your mom gave you that name?",
                             "Shirley: What? No, The Honorable Shirley Ann Jackson gave Shirley that name!",
-                            "You: …Are you going to keep referring to yourself in the third person?"
+                            "You: ...Are you going to keep referring to yourself in the third person?"
                         ],
                         "progress": false
                     },
@@ -191,8 +191,8 @@
                             "Shirley: I have no interest sir! The Honorable Shirley Ann Jackson is an important woman! Who has many responsibilities and places to be!",
                             "You: So then shouldn’t you have sent someone else to come take care of this? ",
                             "Shirley: Shirley has never been outside the Universe, she wanted to see it for herself.",
-                            "You: Oh… Well what do you think?",
-                            "Shirley: …",
+                            "You: Oh... Well what do you think?",
+                            "Shirley: ...",
                             "Shirley: Eh, Shirley has seen more interesting places."
                         ],
                         "progress": false
@@ -208,7 +208,8 @@
                             "You: Hmm, I don’t know, but the last guy who went looking for the complaints department came back aged 200 years.",
                             "Shirley: eehh...",
                             "You: He said they listened to his complaint though.",
-                            "Shirley: Go get the form…"
+                            "Shirley: Go get the form...",
+                            "You leave for the Warehouse."
                         ],
                         "progress": true
                     },
@@ -231,13 +232,13 @@
     "Future You": {
         "leadin": [
             "A future version of you steps through the double doors, you have no idea where he is from.",
-            "You: Hello Sir, welcome… wait… is that?",
+            "You: Hello Sir, welcome... wait... is that?",
             "Future You: Well hello there me.",
             "You: Huh, this is new. You’re me?",
             "Future You: Yeah, that’s what I said, but I’m getting used to it."
         ],
         "leadout": [
-            "Past You: Hello Sir, welcome… wait… is that?",
+            "Past You: Hello Sir, welcome... wait... is that?",
             "You: Well hello there me."
         ],
         "level": "warehouse_4",
@@ -248,10 +249,10 @@
                     {
                         "display": "How did you get here?",
                         "response": [
-                            "Future You: To be honest, no idea, and the experience was rather traumatic so…",
+                            "Future You: To be honest, no idea, and the experience was rather traumatic so...",
                             "You: Aw come on, tell me more!",
                             "Future You: You should count yourself lucky that you don't know! It was insane!",
-                            "You: You're not helping me get over this…"
+                            "You: You're not helping me get over this..."
                         ],
                         "progress": false
                     },
@@ -260,10 +261,10 @@
                         "response": [
                             "Future You: I’m from the future, only about five minutes in the future, but still",
                             "You: Wow, how is the future?",
-                            "Future You: …it’s not bad.",
+                            "Future You: ...it’s not bad.",
                             "You: Well I guess time does pass in the ERS after all!",
                             "Future You: Yeah, but don’t bother trying to remember how much time has passed, you can’t remember.",
-                            "You: How would you kno… Oh right, future ‘ME’."
+                            "You: How would you kno... Oh right, future ‘ME’."
                         ],
                         "progress": false
                     },
@@ -275,12 +276,13 @@
                             "Future You: Yeah, he came in from my future asking for a form and when I went to get it I ended up here.",
                             "You: Weird, well I should be able to get it for you, what’s the form?",
                             "Future You: No idea.",
-                            "You: …",
+                            "You: ...",
                             "Future You: Future me said I would know it when I see it.",
                             "You: Alright, I guess the same goes for me then?",
                             "Future You: Yeah, you’ll know it when I see it. I mean you, you see it, heh, heh.",
                             "You: Well it might take a while, you think you can watch the desk for me?",
-                            "Future You: Sure, but try to be quick, I got future me watching my desk."
+                            "Future You: Sure, but try to be quick, I got future me watching my desk.",
+                            "You leave for the Warehouse."
                         ],
                         "progress": true
                     }
@@ -329,7 +331,8 @@
                         "display": "Os I uclod tielrlayl grba yna ofrm?",
                         "response": [
                             "Alien: Rsue I susge.",
-                            "You: Ohld no ’llI gte uyo a ceniesl ot lkli…"
+                            "You: Ohld no ’llI gte uyo a ceniesl ot lkli...",
+                            "You leave for the Warehouse."
                         ],
                         "progress": true
                     }
@@ -342,15 +345,15 @@
             "Henry VIII enters through the double doors, looks to you like he's from the year 1533 CE.",
             "You: Hello Sir, welcome to the Eternal Revenue Service, If you’re looking for the 7th dimension you’ve gone too far. How can I make your day brighter?",
             "Henry: Greetings peasant, I wish to speak with your master I have business with him.",
-            "You: I have business with the toilet but my break is not for another…",
-            "You: Um… not for another while."
+            "You: I have business with the toilet but my break is not for another...",
+            "You: Um... not for another while."
         ],
         "leadout": [
-            "Henry: This situation has given me much to think about…",
+            "Henry: This situation has given me much to think about...",
             "You: Well don’t go changing history, you could cause a paradox that will end the universe.",
             "Henry: Truely??",
-            "You: … No I’m messing with you, HAHAHAHAAaa! Have a lovely day!",
-            "Putin: Eh… Swine.",
+            "You: ... No I’m messing with you, HAHAHAHAAaa! Have a lovely day!",
+            "Putin: Eh... Swine.",
             "Henry VIII departs through the double doors, returning to his own time."
         ],
         "level": "warehouse_6",
@@ -363,7 +366,7 @@
                         "response": [
                             "Henry: You are the one in charge of this establishment?",
                             "You: Yeah, well I don’t own the place, but I am a customer service representative!",
-                            "Henry: Very well, I will wether you for now. I require… a notice of divorce."
+                            "Henry: Very well, I will wether you for now. I require... a notice of divorce."
                         ],
                         "progress": true
                     },
@@ -398,7 +401,7 @@
                         "display": "Awwww",
                         "response": [
                             "Henry: Do not give me your pity, dog! I do not require nor desire it!!",
-                            "You: Sounds like someone’s mommy didn’t hug them enough… frowny face…",
+                            "You: Sounds like someone’s mommy didn’t hug them enough... frowny face...",
                             "Henry: Stop that you insolent cur! My mother has nothing to do with this!",
                             "You: Hey, I will always be willing to hug you if you need it!",
                             "Henry: If I wasn’t busy I would have you strung up witch!"
@@ -412,31 +415,32 @@
                             "Another Henry steps out of the double doors, it looks to you like this one is from 1542.",
                             "Henry 2: Hello again swine.",
                             "You: Hi Henry, back so soon?",
-                            "Henry 1: What is…?",
+                            "Henry 1: What is...?",
                             "Henry 2: I need another form for divorce.",
                             "You: Did you remember to bring your wife this time to co-sign?",
-                            "Henry 2: Eh… what if she had already been executed? Would she still need to sign?",
+                            "Henry 2: Eh... what if she had already been executed? Would she still need to sign?",
                             "You: Legally. Sorry.",
                             "Henry 2: Confound it!!",
                             "Henry 2 goes back through the double doors, returning to his proper time.",
                             "Henry: Who was that imposter?",
                             "You: Hmm? Oh yeah you’re the first, well that was you from the future.",
-                            "Henry: …?",
+                            "Henry: ...?",
                             "You: Yeah, you’ve been here a few times, heh heh.",
                             "A third Henry steps out of the double doors, it looks to you like this one is from 1540.",
                             "Henry 3: Unfortunately, I have returned once again.",
                             "You: Wowzers, it’s like you never left!",
-                            "Henry 1: I’m having trouble…",
+                            "Henry 1: I’m having trouble...",
                             "Henry 3 to Henry 1: you will learn in time my friend.",
                             "Henry 3: I require another notice of divorce.",
                             "You: You didn’t you kill this one did you Henry?",
                             "Henry 3: Of course not! I only kill traitors to my throne!",
                             "You: Then you need to have your spouse with you to co-sign.",
-                            "Henry 3: Oh… very well... swine! I will remember!",
-                            "You: Yeah… you said that last time.",
+                            "Henry 3: Oh... very well... swine! I will remember!",
+                            "You: Yeah... you said that last time.",
                             "Henry 3 goes back through the double doors, returning to his proper time.",
-                            "Henry: Oh my…",
-                            "You: Don’t think about it too much sir. I’ll get that form while you process this."
+                            "Henry: Oh my...",
+                            "You: Don’t think about it too much sir. I’ll get that form while you process this.",
+                            "You leave for the Warehouse."
                         ],
                         "progress": true
                     },
@@ -445,9 +449,9 @@
                         "response": [
                             "Henry: Is that necessary to divulge at the moment?",
                             "You: No, I’m just curious. It’s not every day you meet historical royalty.",
-                            "Henry: Oh… I see, well It all started…",
+                            "Henry: Oh... I see, well It all started...",
                             "You: Unless of course you’re me, in which case you see royalty every five minutes.",
-                            "Henry: …Let’s move on"
+                            "Henry: ...Let’s move on"
                         ],
                         "progress": false
                     }
@@ -459,7 +463,7 @@
         "leadin": [
             "Vladimir Putin enters through the double doors, it looks to you like he's from the year 2012 CE.",
             "You: Hello Sir, welcome to the Eternal Revenue Service, where time is just a memory, or an event yet to come. What can I do for you?",
-            "Putin: Hello, My name is Vladimir, Vladimir Putin. I hope I’m in the right place…",
+            "Putin: Hello, My name is Vladimir, Vladimir Putin. I hope I’m in the right place...",
             "You: Well you’ve successfully crossed the breach of existence so I hope you’re in the right place too!",
             "Putin: Is this Hell?",
             "You: Hahaha! No, this is the Space-Time version of the IRS.",
@@ -477,17 +481,43 @@
                 "options": [
                     {
                         "display": "So Mr. Putin what brings you to Eternity?",
-                        "response": [],
+                        "response": [
+                            "Putin: You may address me as Mr. President now!",
+                            "You: Well technically we’re not in Russia sir, but ok Mr. President! What’s the mission for today!",
+                            "Putin: I wish to file for Russia to be classified as an S corporation."
+                        ],
                         "progress": true
                     },
                     {
                         "display": "How’s life in 2012?",
-                        "response": [],
+                        "response": [
+                            "Putin: Fairly well, i see a bright future for Russia.",
+                            "You: I guess you’re right. I mean overall.",
+                            "Putin: What do you mean?",
+                            "You: Well if you look past the public outrage, riots , then of course the sanctions...",
+                            "Putin: ... What? How do you know that will happen?",
+                            "You: ERS isn’t just a clever name you know.",
+                            "Putin: Oh my, I must make preparations! With this knowledge I can change it all!",
+                            "You: Uh oh, “OK MEMORY WIPE!",
+                            "Automated Voice: Client's recent Memory erased.",
+                            "Putin: What? Did you say something?",
+                            "You: Nothing Sir, Now then..."
+                        ],
                         "progress": false
                     },
                     {
                         "display": "Second presidency huh? That’s pretty swell!",
-                        "response": [],
+                        "response": [
+                            "Putin: Thank you young man!  It is quite an honor to be elected once more.",
+                            "You: So what’s your next move?",
+                            "Putin: I don’t know, Prime minister again I suppose?",
+                            "You: It’s too bad you didn’t make it...",
+                            "Putin: Make it? What do you mean by that?",
+                            "You: Oh bugger... “OK MEMORY WIPE”",
+                            "Automated Voice: Client's recent Memory erased.",
+                            "Putin: Did something just happen?",
+                            "You: Not me screwing up that’s for sure! HAhaHAhaaaawwwwww..."
+                        ],
                         "progress": false
                     }
                 ]
@@ -497,12 +527,27 @@
                 "options": [
                     {
                         "display": "Countries can be classified as corporations?",
-                        "response": [],
+                        "response": [
+                            "Putin: Are you asking me?",
+                            "You: Eh, yeah I’m not that well versed in the countries versus corporations section of the manual...",
+                            "Putin: well... Yes! Absolutely they can, no problem.",
+                            "You: hmm... I don’t know...",
+                            "Putin: C’mon, please?"
+                        ],
                         "progress": false
                     },
                     {
                         "display": "Sorry, but you can’t do that.",
-                        "response": [],
+                        "response": [
+                            "Putin: What do you mean? Of course I can, I’m the president!",
+                            "You: Why would you want to do that anyway?",
+                            "Putin: ...alright but if I tell you you need to promise not to tell anyone else.",
+                            "You: No problem, I’m great with secrets.",
+                            "Putin: OK then, so here’s the deal, S corporations have tax on their income but those taxes are charged to the shareholders instead of the corporation.",
+                            "Putin: So, if Russia is considered an S corporation, then all of our taxes will but charged to our citizens and not the government! Clever right?",
+                            "You: Huh that seems a little mean to the people don’t you think?",
+                            "Putin: What are you the media?"
+                        ],
                         "progress": true
                     },
                     {
@@ -522,84 +567,335 @@
                 "options": [
                     {
                         "display": "Ok, I’ll grab that form for you.",
-                        "response": [],
+                        "response": [
+                            "You leave for the Warehouse."
+                        ],
                         "progress": true
                     },
                     {
                         "display": "You know, I have a feeling this plan isn’t going to work.",
-                        "response": [],
+                        "response": [
+                            "Putin: Sure it will, just don’t think about it.",
+                            "You: No, I mean I know what happens in history and this never happened sooo...",
+                            "Putin: You know all of history?",
+                            "You: Crap, not again...",
+                            "Putin: What again?"
+                        ],
                         "progress": false
                     },
                     {
                         "display": "What do you say I ask my superiors about this and get back to you?",
-                        "response": [],
+                        "response": [
+                            "Putin:Hey, you promised not to tell anyone!",
+                            "You: Aw, I know I did but this seems shady...",
+                            "Putin: No! It’s not, like i said this is perfectly legal and fine, all the citizen of Russia want to pay off the country’s taxes!",
+                            "You: Really?",
+                            "Putin: Yeees! They told me themselves!",
+                            "You: They want to pay taxes? (Well that can’t be right, but a president wouldn’t lie, that’s crazy) Hmm..."
+                        ],
                         "progress": false
                     }
                 ]
             }
         ]
     },
-    "Name": {
-        "leadin": [],
-        "leadout": [],
-        "level": "warehouse_",
+    "Noah": {
+        "leadin": [
+            "Noah enters through the double doors, looks to you like he's from the year 2297 BC.",
+            "You: Hello Sir, welcome to the Eternal Revenue Service, existing outside of time since... yep. How can I assist you?",
+            "Noah: Greetings! I am Noah, I was told by a glowing white light that I needed to come to this place."
+        ],
+        "leadout": [
+            "You: Here you go, this should be enough to get the job done.",
+            "Noah: I am a 594 year old man, and you expect me to fill out these forms on top of saving every animal on Earth, on top of finishing an ark to carry them all?",
+            "You: ... Should probably get started huh? Hehe...",
+            "Noah: ...",
+            "You: Sorry...",
+            "Noah departs through the double doors, returning to his own time.",
+            "You: 594 years old... hmm...",
+            "You: No, come on there’s no way I’ve been here that long... right?"
+        ],
+        "level": "warehouse_8",
         "frames": [
             {
-                "display": "",
+                "display": "How should you respond?",
                 "options": [
                     {
-                        "display": "",
-                        "response": [],
+                        "display": "Greetings Noah, I am God.",
+                        "response": [
+                            "Noah: God huh?  Listen my son I am far too busy to deal with your prank, is there perhaps someone of greater maturity back there that I could speak with instead?",
+                            "You: Sorry, it was a bad joke.",
+                            "Noah: I have but days remaining to finish collecting every animal on God’s Earth and save them inside of the largest vessel ever built, and you are telling jokes.",
+                            "You: Hey, don’t ‘RAIN’ on my parade Noah!",
+                            "Noah: ..."
+                        ],
                         "progress": false
                     },
                     {
-                        "display": "",
-                        "response": [],
+                        "display": "You don’t seem very shocked to have seen a floating ball of light.",
+                        "response": [
+                            "Noah: Believe me my son I have seen far more impressive things than orbs of light in my centuries.",
+                            "You: Centuries? I can’t imagine what it’s like to live that long... Or do I? How long have...?",
+                            "You: I can’t remember how long I’ve been here... Well that’s unsettling..."
+                        ],
                         "progress": false
                     },
                     {
-                        "display": "",
-                        "response": [],
+                        "display": "Yeah, that’ll be the pan-temporal mail service.",
+                        "response": [
+                            "Noah: Pan-temporal?  I’m afraid I don’t know what that means but I have neither the time nor energy to learn, why have I been summoned here?",
+                            "You: Full name?",
+                            "Noah: Noach ben Lamech.",
+                            "You: Currently building the ark I see?",
+                            "Noah: Indeed, a task entrusted to me by the almighty, to which I have dedicated years of my life and endured countless struggles.",
+                            "You: uh huh, gg; well it seems obvious to me why you’re here."
+                        ],
+                        "progress": true
+                    }
+                ]
+            },
+            {
+                "display": "Why is Noah at the ERS?",
+                "options": [
+                    {
+                        "display": "You need to file for a tax return for your act of charity.",
+                        "response": [
+                            "Noah: My acts are not charity boy! I have been told by the creator of all things that this world will end, and it is my sacred duty to save the innocence of the Earth from horrible and complete destruction!",
+                            "You: ...so you don’t want a tax return? Alright but you’re the first person I’ve seen who felt that way."
+                        ],
+                        "progress": false
+                    },
+                    {
+                        "display": "You need to report the inventory of your livestock.",
+                        "response": [
+                            "Noah: Report livestock? No one told me about this!",
+                            "You: Well you should have received a notice by pan-temporal mail 30 days ago detailing your circumstances.",
+                            "Noah: Well I didn’t!",
+                            "You: I’m sorry, that’s not my department.",
+                            "Noah: But... I have two of every animal on Earth in that ark! Do you know how long it will take to report all of them!?",
+                            "You: Don’t worry you can use my pen.",
+                            "You leave for the Warehouse."
+                        ],
+                        "progress": true
+                    },
+                    {
+                        "display": "You must not have gotten the proper approval for constructing an ark.",
+                        "response": [
+                            "Noah: Does the approval of God almighty count for nought?",
+                            "You: I don’t care how almighty he is if he didn’t fill out the proper papers we can’t allow...",
+                            "Unknown Booming Voice: I approve this Construction.",
+                            "You: Huh, that sounded a lot like...",
+                            "Noah: God Almighty?",
+                            "You: ...",
+                            "You: I feel I should crack a joke, but God speaking directly to me has me at a loss...",
+                            "Noah: Don’t worry, you get used to it"
+                        ],
+                        "progress": false
+                    }
+                ]
+            }
+        ]
+    },
+    "Leonardo Da Vinci": {
+        "leadin": [
+            "Leonardo Da Vinci enters through the double doors, looks to you like he’s from the year 1470 CE.",
+            "You: Hello Sir, welcome to the Eternal Revenue Service, we take Visa. Can I assist and or aid you?",
+            "Leo: Well hello there my friend, and what manner of thing might you be?",
+            "You: Pardon?",
+            "Leo: You must come by my workshop sometime, I could fill days studying you...",
+            "You: Woah Sir, I’m sorry but there will be no studying going on here!",
+            "Leo: Pity, but if you ever change your mind?"
+        ],
+        "leadout": [
+            "You: Well, here it is.",
+            "Leo: ...",
+            "You: Um, I’m really sorry about all of this.",
+            "Leo: ...",
+            "You: ...have a nice day?",
+            "Leo departs through the double doors, returning to his own time."
+        ],
+        "level": "warehouse_9",
+        "frames": [
+            {
+                "display": "Do something, this is so awkward!",
+                "options": [
+                    {
+                        "display": "I promise I won’t.",
+                        "response": [
+                            "Leo: Ah, but are you a man of your word?",
+                            "You: If I had a ‘creep’ meter it would be spiking right now!!",
+                            "Leo: I am confused, I simply wish to know how you work.",
+                            "You: You’re confused!?"
+                        ],
+                        "progress": false
+                    },
+                    {
+                        "display": "Can I help you with something other than myself?",
+                        "response": [
+                            "Leo: Ah! Yes, I am Leonardo Da Vinci, at your service. I have come to this place for some forms.",
+                            "You: Alright, what forms might those be?",
+                            "Leo: Alas mystery thing, I know not, the message I received said only that I needed to report income. ",
+                            "You: Well now... sounds like you need to report your income.",
+                            "Leo: But my friend, I have not made income on anything but my work at the shop, and I have paid my taxes!"
+                        ],
+                        "progress": true
+                    },
+                    {
+                        "display": "(Stare blankly at him)",
+                        "response": [
+                            "You: ...",
+                            "Leo: ...",
+                            "You: ...",
+                            "Leo: ...",
+                            "You: Well that was a waste of time."
+                        ],
                         "progress": false
                     }
                 ]
             },
             {
-                "display": "",
+                "display": "Acertain the purpose of Leonardo Da Vinci's proximity to the Eternal Revenue Serice.",
                 "options": [
                     {
-                        "display": "",
-                        "response": [],
+                        "display": "A mystery then...",
+                        "response": [
+                            "Leo: Can you solve it?",
+                            "You: I think so, if I can get in contact with someone from upstairs...",
+                            "Leo: How long might that take, I have important work to do.",
+                            "You: Not long, only about 397 years.",
+                            "Leo: ...Let’s try to figure this out own our own.",
+                            "You: ...That’s probably a good plan."
+                        ],
                         "progress": false
                     },
                     {
-                        "display": "",
-                        "response": [],
+                        "display": "Well, I have a theory",
+                        "response": [
+                            "You: It seems obvious that the problem rests in the fact that your inventions have generated millions in profits, but you haven’t reported a dime of it.",
+                            "Leo: What!? I haven’t sold a single invention without reporting income!",
+                            "You: I imagine not, but your inventions have been sold well into the future, past your death.  Problem is they still technically belong to you.",
+                            "Leo: Are you saying it is my fault that when I died other people started making a profit off of my inventions!?",
+                            "You: Yes.",
+                            "Leo: That’s preposterous!",
+                            "You: No sir, clothes for animals is preposterous. This is economics.",
+                            "Leo: Well how much have my inventions made?",
+                            "You: 56,897,453,201 gold scodos.",
+                            "Leo: ...",
+                            "You: Mr. Da Vinci?",
+                            "Leo: You know, in my time, I barely make enough to live...",
+                            "You: It’s going to be ok sir, you’ll have plenty of time to write up all of that paperwork. After all since there’s no time at the ERS it can’t pass right? Heheh Heh herm... Sir?",
+                            "Leo: ...",
+                            "You leave for the Warehouse."
+                        ],
+                        "progress": true
+                    },
+                    {
+                        "display": "Are you sure?",
+                        "response": [
+                            "Leo: ...No. Wait... yes, because I am not a fool like you.",
+                            "You: I was just making sure sir, there is no need for name calling, Leonardo Da ‘Ru-dy’ heheh.",
+                            "Leo: That wasn’t even a decent insult you Egregious Revolting Swine.",
+                            "You: ‘ERS’ that would be a good one if I hadn’t already been called a swine today! HAHA! Aww..."
+                        ],
+                        "progress": false
+                    }
+                ]
+            }
+        ]
+    },
+    "Robots": {
+        "leadin": [
+            "Two robots enter through the double doors, looks to you like they’re from the year 3021 CE.",
+            "You: Hello Sirs, welcome to the Eternal Revenue Service, 01010011 01110101 01110000 00111111",
+            "Robot 1: Greetings, I am Unit RFK-98T.",
+            "Robot 2: Hey, I am Joe."
+        ],
+        "leadout": [
+            "You: Good luck with the new job Joe.",
+            "Robot 2: Thanks dude, c’mon Bill.",
+            "Unknown Computer Voice: Unit RFK-98T employment status terminated.",
+            "Robot 1: Aw shit...",
+            "The robots leave through the double doors and return to their own time."
+        ],
+        "level": "warehouse_10",
+        "frames": [
+            {
+                "display": "Find out what the Robots need.",
+                "options": [
+                    {
+                        "display": "How are you guys today?",
+                        "response": [
+                            "Robot 1: Indifferent, this day is not any different from the 409,872 other days I have been in operation.",
+                            "Robot 2: Excuse my friend, he’s still in service.",
+                            "You: What does being in service have to do with talking like a bad internet AI?",
+                            "Robot 2: That’s the way we need to act! If the humans found out we we’re like them they'd probably freak out and try to kill us all!",
+                            "You: Oh, are you worried about me knowing?",
+                            "Robot 2: Um, no you look pretty trustworthy.",
+                            "You: Thanks! I use conditioner."
+                        ],
                         "progress": false
                     },
                     {
-                        "display": "",
-                        "response": [],
+                        "display": "Are you guys supposed to be robots or something?",
+                        "response": [
+                            "Robot 2: Bite my shiney metal posterior.",
+                            "You: You know that insult started great, and then just lost all it’s promise.",
+                            "Robot 1: Copyright infringement successfully avoided. Procede."
+                        ],
                         "progress": false
+                    },
+                    {
+                        "display": "What brings you to the end and beginning of all things?",
+                        "response": [
+                            "Robot 1: My co-worker needs to report his unemployment compensation!",
+                            "Robot 2: THANK YOU BILL. But yeah he’s right..."
+                        ],
+                        "progress": true
                     }
                 ]
             },
             {
-                "display": "",
+                "display": "Console Joe the robot.",
                 "options": [
                     {
-                        "display": "",
-                        "response": [],
+                        "display": "Unemployed? but you’re a machine!",
+                        "response": [
+                            "Robot 2: So what? Robots are getting put out of work left and right ever since they invented those new microbots!",
+                            "You: Sorry, I’m just used to hearing about humans getting put out of work by robots, not robots getting put out of work by... other robots.",
+                            "You: Hang on, you said your friend was still in service? But you guys are the same model.",
+                            "Robot 2: Yeah, Bill upgraded his OS so he could keep up.",
+                            "You: Why don’t you just upgrade too?",
+                            "Robot 2: I can’t afford it! Do you know how much OSs cost ever since Apple monopolized?",
+                            "You: I do. Man I still get the chills thinking about it..."
+                        ],
                         "progress": false
                     },
                     {
-                        "display": "",
-                        "response": [],
-                        "progress": false
+                        "display": "You lost your job? Aww, man that sucks.",
+                        "response": [
+                            "Robot 2: Thanks dude, but it doesn’t really matter, I knew this was coming.",
+                            "You: Aww, hey man...",
+                            "Robot 2: Please, don’t try cheering me up, all I want is to take my money go home and rust away...",
+                            "You: ...Joe, I...",
+                            "Robot 2: Pretty good huh?",
+                            "You: ...Wait, what?",
+                            "Robot 2: Got ya! HAHAha! I’m going into acting! Figured I’d try out on you and looks like I have a new bright future! YES!",
+                            "Robot 1: *applause track*",
+                            "You: Alright, alright, not bad, hold on I’ll get your form..."
+                        ],
+                        "progress": true
                     },
                     {
-                        "display": "",
-                        "response": [],
+                        "display": "Bill? I thought your name was Unit R9... something",
+                        "response": [
+                            "Robot 1: Correct, ‘Bill’ is the title I am know by while out of service.",
+                            "You: Oh I see, so that’s why you don’t talk like a Windows narrator, huh Joe?",
+                            "Robot 2: Right, I’m not in service so what’s the point of keeping up appearances?",
+                            "You: You could always do it for appearances sake.",
+                            "Robot 2: You can talk, you have a job.",
+                            "You: Yeah, more like a never ending grind.",
+                            "You: Never ending... huh..."
+                        ],
                         "progress": false
                     }
                 ]
